@@ -1,7 +1,9 @@
 flask 
+dlib
+cmake
 opencv-python
 face_recognition
 numpy 
 pyttsx3
 cvlib 
-dlib-19.22.99-cp37-cp37m-win_amd64.whl
+
